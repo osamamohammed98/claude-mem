@@ -3,8 +3,6 @@ node_modules/
 dist/
 *.log
 .DS_Store
-.env
-.env.local
 *.tmp
 *.temp
 .install-version
@@ -35,3 +33,4 @@ https*/
 
 # Ignore WebStorm project files (for dinosaur IDE users)
 .idea/
+config.bat
